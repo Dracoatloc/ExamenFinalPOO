@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Prob3ExamenFinal.Classes;
 
 namespace Prob3ExamenFinal
 {
@@ -10,6 +11,7 @@ namespace Prob3ExamenFinal
     {
         static void Main(string[] args)
         {
+            PreguntarNombres.CapturarNombres();
         }
     }
 }
